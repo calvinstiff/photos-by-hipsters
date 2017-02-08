@@ -1,0 +1,73 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #bababa;
+}
+
+#topLeft {
+  margin-right: 50%;
+  height: 475px;
+  background-image: url("picpic.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size:contain;
+}
+
+#bottomLeft {
+  margin-top: 3px;
+  margin-right: 50%;
+  height: 475px;
+  background-image: url("grill.jpg");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: contain;
+}
+
+#rightSide {
+  font-family: 'Permanent Marker', cursive;
+  margin: 2%;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  right: 2%;
+  height: 400px;
+  border: thick solid black;
+  text-align: center;
+
+
+}
+
+#mainHeader {
+
+  font-size: 60px;
+}
+
+.mainWebPageLink {
+  text-decoration: none;
+  position: relative;
+  bottom: 3%;
+}
+
+.faceBook {
+
+}
+
+.twitter {
+
+}
+
+.instagram {
+
+}
+
+h2 {
+  letter-spacing: 8px;
+}
+
+.socialIcons a {
+  text-decoration: none;
+
+}
+.socialIcons a:visited {
+  color: black;
+}
